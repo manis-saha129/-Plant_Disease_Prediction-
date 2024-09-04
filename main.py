@@ -170,3 +170,4 @@ predicted_class_name = predict_image_class(model, image_path, class_indices)
 
 # Output the result
 print("Predicted Class Name:", predicted_class_name)
+# print("Hello World")
